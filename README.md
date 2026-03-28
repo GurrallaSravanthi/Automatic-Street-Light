@@ -1,2 +1,7 @@
-# Automatic-Street-Light
-Automatic Street Light System uses an LDR sensor to detect ambient light and control street lights automatically. Lights turn off in daylight and on in darkness, reducing energy consumption and manual effort. It is a simple, cost-effective solution for efficient street lighting.
+HI, I,m Gurralla Sravanthi
+Aspiring Data Analyst 
+Skilled in Python, SQL,Excel
+Passionate about turning data into insights
+CONNECT WITH ME :
+Linkedin : www.linkedin.com/in/
+sravanthi-gurralla
